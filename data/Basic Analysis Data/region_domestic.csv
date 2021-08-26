@@ -1,0 +1,3498 @@
+﻿region,status,count
+Beijing,valid,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Hebei,valid,1
+Hebei,valid,1
+Hubei,valid,1
+Liaoning,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Guangdong,in review,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Hebei,invalid,1
+Jilin,invalid,1
+Hubei,invalid,1
+Guangdong,invalid,1
+Liaoning,invalid,1
+Liaoning,invalid,1
+Hubei,invalid,1
+Liaoning,invalid,1
+Shanghai,invalid,1
+Jilin,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Hebei,invalid,1
+Beijing,in review,1
+Shanghai,valid,1
+Chongqing,valid,1
+Liaoning,valid,1
+Liaoning,valid,1
+Fujian,valid,1
+Beijing,in review,1
+Guangdong,valid,1
+Liaoning,valid,1
+Liaoning,valid,1
+Shanghai,valid,1
+Heilongjiang,invalid,1
+Shanghai,invalid,1
+Fujian,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Guangdong,valid,1
+Liaoning,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Hunan,valid,1
+Jilin,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Jiangsu,invalid,1
+Zhejiang,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Guangdong,invalid,1
+Hunan,invalid,1
+Hunan,invalid,1
+Hunan,invalid,1
+Hunan,invalid,1
+Hunan,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Hunan,invalid,1
+Shanghai,invalid,1
+Hunan,invalid,1
+Hongkong,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Hunan,invalid,1
+Jiangxi,invalid,1
+Jiangxi,invalid,1
+Jiangxi,invalid,1
+Jiangsu,invalid,1
+Henan,invalid,1
+Jilin,invalid,1
+Jilin,invalid,1
+Hunan,valid,1
+Hunan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Chongqing,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Zhejiang,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Hunan,valid,1
+Shandong,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Taiwan,valid,1
+Shanghai,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Guangdong,in review,1
+Hunan,in review,1
+Shanghai,in review,1
+Yunnan,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Shandong,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Liaoning,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Shandong,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Chongqing,in review,1
+Chongqing,in review,1
+Shanghai,in review,1
+Sichuan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Beijing,in review,1
+Shandong,in review,1
+Jiangsu,in review,1
+Liaoning,in review,1
+Guangdong,in review,1
+Hongkong,in review,1
+Beijing,valid,1
+Henan,valid,1
+Jilin,valid,1
+Jilin,valid,1
+Beijing,valid,1
+Tianjin,valid,1
+Beijing,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Yunnan,valid,1
+Hongkong,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Beijing,in review,1
+Shanghai,valid,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Ningxia,in review,1
+Tianjin,valid,1
+Tianjin,valid,1
+Tianjin,valid,1
+Tianjin,in review,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Liaoning,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Yunnan,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Liaoning,invalid,1
+Guangxi,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Taiwan,invalid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Tianjin,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Sichuan,in review,1
+Sichuan,in review,1
+Shandong,valid,1
+Shandong,valid,1
+Shanghai,in review,1
+Shanghai,in review,1
+Guangdong,valid,1
+Guangdong,in review,1
+Hongkong,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Shandong,in review,1
+Xinjiang,valid,1
+Xinjiang,in review,1
+Xinjiang,in review,1
+Shandong,in review,1
+Shandong,valid,1
+Shandong,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Beijing,valid,1
+Sichuan,valid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Liaoning,invalid,1
+Hubei,invalid,1
+Hubei,invalid,1
+Jilin,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Guangxi,invalid,1
+Guangxi,invalid,1
+Guangxi,invalid,1
+Guangxi,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Jilin,invalid,1
+Shanghai,invalid,1
+Shanghai,in review,1
+Sichuan,valid,1
+Guangdong,valid,1
+Beijing,in review,1
+Sichuan,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jilin,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Jilin,invalid,1
+Shanxi,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Jilin,invalid,1
+Beijing,invalid,1
+Hubei,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Hubei,invalid,1
+Hubei,invalid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Shanxi,valid,1
+Hongkong,valid,1
+Hongkong,valid,1
+Beijing,valid,1
+Hubei,valid,1
+Guangdong,valid,1
+Beijing,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Shanghai,in review,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Hubei,invalid,1
+Shanghai,invalid,1
+Hongkong,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Taiwan,invalid,1
+Shanghai,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Shanxi,invalid,1
+Hubei,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Hubei,in review,1
+Shanghai,in review,1
+Beijing,in review,1
+Shandong,in review,1
+Jilin,valid,1
+Jilin,valid,1
+Hongkong,valid,1
+Shanghai,valid,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Guangdong,valid,1
+Beijing,in review,1
+Taiwan,in review,1
+Hongkong,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Fujian,valid,1
+Jilin,valid,1
+Hubei,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Shanxi,invalid,1
+Chongqing,invalid,1
+Sichuan,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,valid,1
+Beijing,valid,1
+Sichuan,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Zhejiang,invalid,1
+Beijing,invalid,1
+Jilin,valid,1
+Beijing,in review,1
+Tianjin,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Tianjin,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Yunnan,valid,1
+Heilongjiang,valid,1
+Ningxia,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Jilin,valid,1
+Hebei,valid,1
+Jiangxi,valid,1
+Jiangsu,valid,1
+Xinjiang,valid,1
+Tianjin,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Hongkong,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Jiangxi,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Hunan,invalid,1
+Beijing,invalid,1
+Sichuan,invalid,1
+Liaoning,invalid,1
+Jilin,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Neimenggu,invalid,1
+Beijing,invalid,1
+Hubei,invalid,1
+Guangdong,invalid,1
+Zhejiang,invalid,1
+Guangdong,invalid,1
+Shanxi,invalid,1
+Henan,invalid,1
+Liaoning,invalid,1
+Henan,invalid,1
+Guizhou,invalid,1
+Gansu,invalid,1
+Beijing,invalid,1
+Liaoning,invalid,1
+Sichuan,in review,1
+Tianjin,valid,1
+Tianjin,valid,1
+Sichuan,valid,1
+Sichuan,in review,1
+Jiangsu,valid,1
+Anhui,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Hebei,in review,1
+Shanghai,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Jilin,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Xinjiang,valid,1
+Sichuan,valid,1
+Shanghai,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Chongqing,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Guangdong,in review,1
+Hunan,in review,1
+Neimenggu,in review,1
+Shandong,in review,1
+Hubei,in review,1
+Hebei,valid,1
+Guangdong,valid,1
+Sichuan,valid,1
+Hunan,valid,1
+Beijing,valid,1
+Hebei,valid,1
+Jiangsu,valid,1
+Sichuan,valid,1
+Gansu,valid,1
+Jiangsu,valid,1
+Jilin,valid,1
+Jilin,valid,1
+Beijing,valid,1
+Tianjin,valid,1
+Jiangsu,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Hebei,valid,1
+Jilin,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Tianjin,valid,1
+Tianjin,valid,1
+Tianjin,valid,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Shanxi,valid,1
+Shanxi,valid,1
+Shanxi,valid,1
+Chongqing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Sichuan,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Guizhou,valid,1
+Sichuan,valid,1
+Yunnan,valid,1
+Hunan,valid,1
+Jiangsu,valid,1
+Jilin,valid,1
+Guangdong,valid,1
+Guizhou,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Guangxi,in review,1
+Guangdong,in review,1
+Guangdong,valid,1
+Hebei,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Shandong,valid,1
+Heilongjiang,valid,1
+Henan,valid,1
+Anhui,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Chongqing,valid,1
+Taiwan,valid,1
+Shanxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Henan,valid,1
+Henan,valid,1
+Shanghai,in review,1
+Guangdong,in review,1
+Beijing,valid,1
+Jiangsu,valid,1
+Sichuan,in review,1
+Sichuan,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Hunan,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Qinghai,valid,1
+Hebei,valid,1
+Henan,valid,1
+Guizhou,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Hebei,valid,1
+Zhejiang,valid,1
+Liaoning,valid,1
+Hainan,valid,1
+Hainan,valid,1
+Sichuan,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Yunnan,valid,1
+Beijing,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Henan,valid,1
+Jiangxi,valid,1
+Guangdong,in review,1
+Beijing,valid,1
+Jiangxi,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Henan,valid,1
+Heilongjiang,valid,1
+Jilin,valid,1
+Jilin,valid,1
+Hubei,valid,1
+Guizhou,valid,1
+Xinjiang,valid,1
+Xinjiang,valid,1
+Heilongjiang,valid,1
+Beijing,invalid,1
+Heilongjiang,invalid,1
+Shandong,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Guangdong,invalid,1
+Jilin,invalid,1
+Heilongjiang,invalid,1
+Jiangsu,invalid,1
+Tianjin,invalid,1
+Zhejiang,invalid,1
+Jilin,invalid,1
+Anhui,invalid,1
+Sichuan,valid,1
+Sichuan,valid,1
+Zhejiang,in review,1
+Zhejiang,valid,1
+Guizhou,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Shanghai,valid,1
+Hubei,in review,1
+Guangxi,valid,1
+Zhejiang,valid,1
+Qinghai,in review,1
+Xinjiang,in review,1
+Yunnan,valid,1
+Liaoning,valid,1
+Hubei,valid,1
+Henan,in review,1
+Xinjiang,in review,1
+Xinjiang,valid,1
+Xinjiang,valid,1
+Xinjiang,valid,1
+Xinjiang,valid,1
+Xinjiang,valid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Guangdong,in review,1
+Sichuan,valid,1
+Sichuan,valid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Shandong,in review,1
+Shandong,in review,1
+Sichuan,valid,1
+Sichuan,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Yunnan,valid,1
+Henan,valid,1
+Liaoning,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Sichuan,valid,1
+Qinghai,valid,1
+Jilin,valid,1
+Jilin,valid,1
+Shanxi,valid,1
+Sichuan,valid,1
+Zhejiang,valid,1
+Sichuan,valid,1
+Fujian,valid,1
+Shandong,valid,1
+Heilongjiang,valid,1
+Hubei,valid,1
+Neimenggu,valid,1
+Guangdong,valid,1
+Heilongjiang,valid,1
+Shanghai,valid,1
+Guangxi,valid,1
+Guangdong,valid,1
+Hongkong,valid,1
+Beijing,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Beijing,in review,1
+Shanghai,invalid,1
+Hubei,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,valid,1
+Hongkong,valid,1
+Hongkong,valid,1
+Tianjin,valid,1
+Beijing,valid,1
+Tianjin,valid,1
+Guangdong,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Hongkong,invalid,1
+Beijing,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Fujian,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Liaoning,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Hongkong,invalid,1
+Tianjin,invalid,1
+Heilongjiang,invalid,1
+Heilongjiang,invalid,1
+Hubei,invalid,1
+Guangdong,invalid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,invalid,1
+Chongqing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Jilin,invalid,1
+Beijing,valid,1
+Beijing,invalid,1
+Hubei,invalid,1
+Beijing,in review,1
+Taiwan,invalid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Hongkong,valid,1
+Liaoning,valid,1
+Guangdong,valid,1
+Hubei,valid,1
+Hongkong,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Hubei,in review,1
+Henan,valid,1
+Shandong,in review,1
+Beijing,in review,1
+Henan,in review,1
+Guangdong,in review,1
+Tianjin,in review,1
+Guangdong,in review,1
+Tianjin,in review,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Shanghai,invalid,1
+Tianjin,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Hongkong,invalid,1
+Beijing,invalid,1
+Hunan,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Yunnan,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Heilongjiang,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Hongkong,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Hongkong,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Jiangsu,invalid,1
+Henan,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Hubei,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Beijing,invalid,1
+Henan,invalid,1
+Beijing,valid,1
+Gansu,invalid,1
+Sichuan,invalid,1
+Xinjiang,invalid,1
+Henan,invalid,1
+Henan,invalid,1
+Beijing,invalid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Shandong,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Fujian,valid,1
+Jiangsu,in review,1
+Beijing,in review,1
+Chongqing,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Jilin,in review,1
+Neimenggu,in review,1
+Beijing,in review,1
+Fujian,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,valid,1
+Hongkong,valid,1
+Shanghai,in review,1
+Henan,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Zhejiang,in review,1
+Zhejiang,valid,1
+Zhejiang,in review,1
+Hongkong,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Guangdong,valid,1
+Beijing,valid,1
+Hubei,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Gansu,in review,1
+Jiangsu,in review,1
+Neimenggu,in review,1
+Anhui,in review,1
+Jilin,in review,1
+Zhejiang,in review,1
+Gansu,in review,1
+Henan,in review,1
+Henan,valid,1
+Henan,valid,1
+Henan,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Hubei,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Henan,in review,1
+Shandong,in review,1
+Zhejiang,in review,1
+Shanxi,in review,1
+Sichuan,in review,1
+Sichuan,in review,1
+Henan,in review,1
+Henan,in review,1
+Jiangsu,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Heilongjiang,in review,1
+Hubei,in review,1
+Beijing,in review,1
+Guangxi,in review,1
+Shandong,valid,1
+Sichuan,in review,1
+Shanghai,in review,1
+Jiangxi,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Guangxi,in review,1
+Shanghai,in review,1
+Hubei,in review,1
+Beijing,invalid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Beijing,valid,1
+Beijing,in review,1
+Gansu,valid,1
+Hongkong,valid,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Jiangsu,in review,1
+Heilongjiang,in review,1
+Hubei,in review,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Henan,valid,1
+Guangdong,invalid,1
+Henan,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Hongkong,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Jiangsu,invalid,1
+Yunnan,invalid,1
+Liaoning,invalid,1
+Beijing,invalid,1
+Henan,valid,1
+Tianjin,valid,1
+Heilongjiang,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Shandong,valid,1
+Anhui,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Shanghai,valid,1
+Zhejiang,in review,1
+Henan,valid,1
+Beijing,valid,1
+Henan,valid,1
+Henan,valid,1
+Jiangxi,in review,1
+Shanghai,valid,1
+Liaoning,valid,1
+Guangxi,in review,1
+Shanghai,invalid,1
+Liaoning,invalid,1
+Shanxi,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Liaoning,invalid,1
+Taiwan,invalid,1
+Taiwan,valid,1
+Beijing,in review,1
+Beijing,valid,1
+Hongkong,valid,1
+Beijing,valid,1
+Beijing,in review,1
+Beijing,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Beijing,valid,1
+Hunan,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Hunan,in review,1
+Tianjin,in review,1
+Jiangsu,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Jiangsu,valid,1
+Hunan,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,in review,1
+Hunan,in review,1
+Beijing,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Jiangsu,in review,1
+Hunan,in review,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Hunan,invalid,1
+Hunan,invalid,1
+Jiangsu,valid,1
+Hunan,in review,1
+Hunan,in review,1
+Hunan,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Tianjin,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Hunan,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Shanghai,invalid,1
+Guangdong,in review,1
+Tianjin,valid,1
+Henan,valid,1
+Sichuan,valid,1
+Tianjin,valid,1
+Guizhou,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Tianjin,valid,1
+Zhejiang,valid,1
+Shanghai,invalid,1
+Sichuan,invalid,1
+Henan,invalid,1
+Liaoning,invalid,1
+Beijing,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Shanxi,invalid,1
+Shanxi,invalid,1
+Henan,invalid,1
+Tianjin,valid,1
+Tianjin,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Jiangsu,valid,1
+Tianjin,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Hebei,valid,1
+Shandong,valid,1
+Shandong,in review,1
+Hebei,valid,1
+Guizhou,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Beijing,valid,1
+Tianjin,valid,1
+Chongqing,in review,1
+Hubei,in review,1
+Liaoning,in review,1
+Shandong,in review,1
+Anhui,in review,1
+Sichuan,in review,1
+Hubei,invalid,1
+Hubei,invalid,1
+Beijing,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Zhejiang,invalid,1
+Hongkong,invalid,1
+Taiwan,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Gansu,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Beijing,invalid,1
+Hongkong,invalid,1
+Jiangsu,invalid,1
+Shandong,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Beijing,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Zhejiang,invalid,1
+Jiangxi,invalid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Shanxi,valid,1
+Beijing,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Taiwan,in review,1
+Shanxi,valid,1
+Shanxi,valid,1
+Jiangsu,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,valid,1
+Sichuan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,in review,1
+Beijing,valid,1
+Jiangsu,in review,1
+Beijing,valid,1
+Jiangxi,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Beijing,valid,1
+Beijing,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Henan,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Shandong,invalid,1
+Shanxi,invalid,1
+Shanxi,invalid,1
+Beijing,invalid,1
+Beijing,valid,1
+Shanghai,in review,1
+Guangdong,in review,1
+Henan,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Shanxi,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guangdong,in review,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Hainan,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Henan,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Hainan,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Shanxi,in review,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Tianjin,invalid,1
+Anhui,invalid,1
+Zhejiang,in review,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,in review,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Guizhou,invalid,1
+Heilongjiang,invalid,1
+Zhejiang,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Shanxi,invalid,1
+Shanghai,invalid,1
+Fujian,invalid,1
+Jiangxi,invalid,1
+Jiangsu,valid,1
+Jilin,valid,1
+Hebei,valid,1
+Anhui,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Sichuan,in review,1
+Hubei,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Tianjin,in review,1
+Guangdong,in review,1
+Heilongjiang,in review,1
+Chongqing,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Hunan,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Chongqing,in review,1
+Sichuan,valid,1
+Zhejiang,valid,1
+Liaoning,valid,1
+Hebei,in review,1
+Liaoning,in review,1
+Heilongjiang,valid,1
+Shanghai,valid,1
+Heilongjiang,valid,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Zhejiang,valid,1
+Zhejiang,valid,1
+Zhejiang,valid,1
+Shanghai,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Zhejiang,valid,1
+Hubei,valid,1
+Beijing,valid,1
+Zhejiang,valid,1
+Hubei,valid,1
+Henan,valid,1
+Guangdong,valid,1
+Shanghai,in review,1
+Beijing,in review,1
+Shandong,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Heilongjiang,in review,1
+Anhui,in review,1
+Beijing,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Hubei,in review,1
+Zhejiang,in review,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Jiangsu,in review,1
+Shandong,valid,1
+Shandong,in review,1
+Shanghai,in review,1
+Beijing,valid,1
+Fujian,valid,1
+Heilongjiang,valid,1
+Sichuan,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Henan,in review,1
+Guangdong,in review,1
+Yunnan,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Shanxi,in review,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Beijing,valid,1
+Shanxi,valid,1
+Shandong,in review,1
+Shanxi,valid,1
+Shanghai,in review,1
+Beijing,valid,1
+Guangxi,in review,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Tianjin,invalid,1
+Heilongjiang,invalid,1
+Guangdong,invalid,1
+Heilongjiang,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Shanghai,in review,1
+Heilongjiang,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Fujian,in review,1
+Anhui,in review,1
+Henan,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shandong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shandong,valid,1
+Fujian,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Anhui,valid,1
+Shanghai,in review,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guizhou,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guangdong,in review,1
+Beijing,valid,1
+Sichuan,valid,1
+Shanghai,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Fujian,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Fujian,valid,1
+Sichuan,valid,1
+Beijing,in review,1
+Zhejiang,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Chongqing,in review,1
+Shanghai,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Shanxi,in review,1
+Beijing,in review,1
+Fujian,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangxi,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Jiangsu,in review,1
+Anhui,in review,1
+Shanghai,in review,1
+Anhui,in review,1
+Hebei,in review,1
+Heilongjiang,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,valid,1
+Shandong,valid,1
+Sichuan,in review,1
+Hebei,valid,1
+Shanxi,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Shanghai,in review,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Hubei,in review,1
+Shandong,in review,1
+Liaoning,in review,1
+Beijing,in review,1
+Jiangxi,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Liaoning,invalid,1
+Taiwan,invalid,1
+Liaoning,invalid,1
+Shanxi,invalid,1
+Shandong,invalid,1
+Guangdong,invalid,1
+Jiangxi,invalid,1
+Zhejiang,invalid,1
+Jiangxi,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Anhui,invalid,1
+Guizhou,invalid,1
+Hubei,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Tianjin,invalid,1
+Shandong,invalid,1
+Tianjin,invalid,1
+Jiangsu,invalid,1
+Liaoning,invalid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Sichuan,invalid,1
+Beijing,valid,1
+Guangdong,in review,1
+Guangdong,valid,1
+Hebei,valid,1
+Heilongjiang,valid,1
+Hebei,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Jiangxi,valid,1
+Shanxi,valid,1
+Shanghai,valid,1
+Jiangxi,valid,1
+Shanxi,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shandong,valid,1
+Heilongjiang,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Shandong,in review,1
+Jiangsu,in review,1
+Anhui,in review,1
+Guangxi,in review,1
+Sichuan,in review,1
+Heilongjiang,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Hunan,in review,1
+Jiangsu,in review,1
+Hebei,in review,1
+Shanxi,in review,1
+Jiangsu,in review,1
+Guangxi,in review,1
+Shandong,in review,1
+Shanxi,in review,1
+Guangdong,in review,1
+Jiangxi,in review,1
+Jiangxi,in review,1
+Guangxi,in review,1
+Guangxi,in review,1
+Shandong,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Shandong,in review,1
+Shanxi,in review,1
+Guangxi,in review,1
+Shanxi,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Hebei,valid,1
+Guangdong,in review,1
+Beijing,valid,1
+Fujian,valid,1
+Beijing,valid,1
+Liaoning,in review,1
+Guangdong,valid,1
+Shandong,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Yunnan,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Shanghai,in review,1
+Tianjin,valid,1
+Beijing,valid,1
+Shandong,in review,1
+Guangdong,in review,1
+Hubei,valid,1
+Shanghai,valid,1
+Yunnan,valid,1
+Guangdong,in review,1
+Zhejiang,valid,1
+Shandong,valid,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Chongqing,in review,1
+Beijing,in review,1
+Shandong,in review,1
+Hongkong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Hunan,in review,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Anhui,invalid,1
+Liaoning,invalid,1
+Tianjin,invalid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Hubei,valid,1
+Sichuan,valid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Anhui,valid,1
+Anhui,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Tianjin,in review,1
+Anhui,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Taiwan,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Taiwan,invalid,1
+Guangdong,invalid,1
+Fujian,invalid,1
+Taiwan,invalid,1
+Taiwan,invalid,1
+Guangdong,invalid,1
+Taiwan,invalid,1
+Guangdong,invalid,1
+Zhejiang,invalid,1
+Zhejiang,invalid,1
+Guangdong,invalid,1
+Hunan,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Gansu,invalid,1
+Jilin,invalid,1
+Zhejiang,invalid,1
+Henan,invalid,1
+Jiangsu,invalid,1
+Taiwan,invalid,1
+Taiwan,invalid,1
+Fujian,invalid,1
+Beijing,invalid,1
+Shandong,invalid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Zhejiang,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Henan,invalid,1
+Taiwan,invalid,1
+Shanxi,invalid,1
+Hunan,invalid,1
+Hubei,invalid,1
+Jiangxi,invalid,1
+Guangdong,invalid,1
+Jiangsu,invalid,1
+Anhui,invalid,1
+Tianjin,invalid,1
+Sichuan,invalid,1
+Guangdong,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Guangdong,invalid,1
+Hunan,invalid,1
+Zhejiang,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Sichuan,invalid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Sichuan,in review,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangxi,in review,1
+Taiwan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shandong,valid,1
+Guangdong,valid,1
+Chongqing,valid,1
+Jiangsu,in review,1
+Sichuan,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Chongqing,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Taiwan,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,in review,1
+Shandong,valid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Liaoning,valid,1
+Shanghai,valid,1
+Liaoning,valid,1
+Tianjin,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Sichuan,in review,1
+Shanghai,in review,1
+Guangdong,valid,1
+Liaoning,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Liaoning,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Liaoning,in review,1
+Liaoning,in review,1
+Shanxi,invalid,1
+Beijing,invalid,1
+Shanxi,invalid,1
+Beijing,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Chongqing,valid,1
+Jiangsu,valid,1
+Jiangsu,in review,1
+Jiangsu,valid,1
+Beijing,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Shanghai,in review,1
+Liaoning,in review,1
+Liaoning,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Shanghai,in review,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Jiangsu,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Fujian,valid,1
+Zhejiang,in review,1
+Shanghai,valid,1
+Henan,valid,1
+Sichuan,valid,1
+Beijing,valid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Yunnan,valid,1
+Henan,valid,1
+Zhejiang,valid,1
+Hubei,valid,1
+Henan,valid,1
+Henan,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Hebei,valid,1
+Hebei,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Hebei,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Fujian,valid,1
+Hunan,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Jiangxi,valid,1
+Jiangxi,valid,1
+Jiangsu,valid,1
+Anhui,in review,1
+Sichuan,in review,1
+Guangdong,valid,1
+Chongqing,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Henan,in review,1
+Jiangxi,valid,1
+Henan,valid,1
+Jiangxi,valid,1
+Liaoning,valid,1
+Sichuan,in review,1
+Beijing,valid,1
+Jiangsu,valid,1
+Yunnan,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Taiwan,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Shanghai,invalid,1
+Hubei,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Hunan,valid,1
+Liaoning,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Guizhou,valid,1
+Jiangsu,in review,1
+Heilongjiang,in review,1
+Heilongjiang,in review,1
+Heilongjiang,in review,1
+Heilongjiang,in review,1
+Anhui,invalid,1
+Hunan,invalid,1
+Shanghai,invalid,1
+Anhui,invalid,1
+Anhui,invalid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Sichuan,valid,1
+Hubei,valid,1
+Chongqing,valid,1
+Beijing,valid,1
+Chongqing,valid,1
+Shandong,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Chongqing,in review,1
+Shandong,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Beijing,valid,1
+Shanxi,valid,1
+Chongqing,valid,1
+Shandong,valid,1
+Gansu,valid,1
+Gansu,valid,1
+Zhejiang,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Xinjiang,invalid,1
+Hubei,invalid,1
+Beijing,invalid,1
+Shandong,invalid,1
+Hubei,invalid,1
+Heilongjiang,invalid,1
+Hubei,invalid,1
+Heilongjiang,invalid,1
+Jilin,invalid,1
+Jilin,invalid,1
+Hubei,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Heilongjiang,invalid,1
+Fujian,invalid,1
+Jilin,invalid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Beijing,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Henan,valid,1
+Anhui,valid,1
+Shandong,valid,1
+Henan,valid,1
+Yunnan,valid,1
+Anhui,valid,1
+Anhui,valid,1
+Henan,valid,1
+Jiangsu,in review,1
+Anhui,valid,1
+Jiangsu,valid,1
+Guizhou,valid,1
+Henan,valid,1
+Henan,valid,1
+Hubei,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Heilongjiang,valid,1
+Henan,in review,1
+Anhui,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Hubei,valid,1
+Sichuan,valid,1
+Jiangsu,in review,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Shanxi,valid,1
+Shandong,valid,1
+Guangdong,valid,1
+Hubei,valid,1
+Jiangsu,in review,1
+Hebei,valid,1
+Guangdong,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Guangdong,invalid,1
+Guizhou,invalid,1
+Shandong,invalid,1
+Henan,invalid,1
+Heilongjiang,invalid,1
+Jiangsu,invalid,1
+Guangdong,invalid,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Ningxia,in review,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Henan,valid,1
+Guizhou,valid,1
+Shanghai,valid,1
+Guangdong,invalid,1
+Chongqing,invalid,1
+Tianjin,invalid,1
+Heilongjiang,invalid,1
+Shandong,invalid,1
+Heilongjiang,invalid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Yunnan,valid,1
+Hubei,valid,1
+Jiangsu,valid,1
+Henan,valid,1
+Henan,valid,1
+Shanghai,valid,1
+Henan,valid,1
+Shanghai,valid,1
+Shandong,valid,1
+Jiangsu,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Liaoning,valid,1
+Zhejiang,valid,1
+Shandong,valid,1
+Henan,valid,1
+Zhejiang,in review,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Gansu,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Hubei,valid,1
+Hubei,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Beijing,in review,1
+Shandong,in review,1
+Shanghai,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Henan,in review,1
+Shandong,in review,1
+Tianjin,in review,1
+Shandong,valid,1
+Zhejiang,invalid,1
+Heilongjiang,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Shanxi,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Zhejiang,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Heilongjiang,invalid,1
+Shandong,invalid,1
+Guangxi,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Heilongjiang,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Sichuan,invalid,1
+Tianjin,invalid,1
+Shandong,invalid,1
+Fujian,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Heilongjiang,invalid,1
+Shandong,invalid,1
+Guangxi,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Zhejiang,invalid,1
+Liaoning,invalid,1
+Jiangsu,valid,1
+Shanghai,in review,1
+Shanghai,valid,1
+Hebei,valid,1
+Tianjin,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Shanxi,valid,1
+Hubei,invalid,1
+Tianjin,invalid,1
+Anhui,invalid,1
+Shandong,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,valid,1
+Fujian,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Fujian,valid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Jiangsu,in review,1
+Shanghai,valid,1
+Sichuan,valid,1
+Guangdong,valid,1
+Tianjin,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Henan,valid,1
+Beijing,valid,1
+Henan,valid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Liaoning,valid,1
+Shandong,in review,1
+Shanxi,in review,1
+Jiangsu,valid,1
+Guangdong,in review,1
+Jiangsu,valid,1
+Guangdong,valid,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Guangxi,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Henan,in review,1
+Shanghai,in review,1
+Shanxi,in review,1
+Anhui,in review,1
+Liaoning,in review,1
+Shanghai,invalid,1
+Hebei,invalid,1
+Shanghai,invalid,1
+Heilongjiang,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Fujian,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Taiwan,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Anhui,invalid,1
+Jiangsu,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Zhejiang,invalid,1
+Zhejiang,invalid,1
+Jiangsu,invalid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Tianjin,valid,1
+Jiangsu,valid,1
+Hebei,valid,1
+Jiangsu,valid,1
+Liaoning,valid,1
+Zhejiang,valid,1
+Zhejiang,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Henan,valid,1
+Beijing,valid,1
+Tianjin,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Sichuan,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Fujian,valid,1
+Shanghai,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Jiangsu,valid,1
+Shanxi,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Shanxi,valid,1
+Anhui,in review,1
+Shanxi,in review,1
+Shanghai,in review,1
+Guangxi,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Shanghai,invalid,1
+Hebei,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Heilongjiang,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Fujian,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Taiwan,invalid,1
+Jiangsu,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Zhejiang,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Fujian,invalid,1
+Anhui,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Anhui,invalid,1
+Beijing,in review,1
+Shandong,in review,1
+Hebei,in review,1
+Fujian,in review,1
+Jiangsu,valid,1
+Anhui,in review,1
+Beijing,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Zhejiang,invalid,1
+Jiangsu,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Anhui,in review,1
+Guangxi,valid,1
+Shandong,in review,1
+Shanxi,in review,1
+Hubei,in review,1
+Jiangsu,in review,1
+Shanxi,invalid,1
+Shanxi,invalid,1
+Beijing,invalid,1
+Tianjin,invalid,1
+Zhejiang,in review,1
+Guangdong,valid,1
+Sichuan,valid,1
+Beijing,valid,1
+Liaoning,valid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Jilin,valid,1
+Yunnan,invalid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Anhui,valid,1
+Sichuan,valid,1
+Yunnan,valid,1
+Jiangsu,valid,1
+Beijing,valid,1
+Fujian,valid,1
+Jiangsu,valid,1
+Sichuan,valid,1
+Hebei,valid,1
+Shandong,valid,1
+Zhejiang,valid,1
+Guangdong,valid,1
+Shandong,valid,1
+Shanghai,valid,1
+Anhui,valid,1
+Fujian,valid,1
+Jilin,valid,1
+Sichuan,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Sichuan,valid,1
+Shanghai,valid,1
+Hunan,in review,1
+Shanghai,in review,1
+Anhui,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Hunan,valid,1
+Guangxi,valid,1
+Hunan,valid,1
+Guangdong,valid,1
+Hunan,in review,1
+Jiangsu,valid,1
+Hubei,in review,1
+Shandong,in review,1
+Tianjin,valid,1
+Henan,valid,1
+Hunan,valid,1
+Guangdong,valid,1
+Anhui,valid,1
+Anhui,valid,1
+Anhui,valid,1
+Guangxi,in review,1
+Tianjin,valid,1
+Sichuan,valid,1
+Fujian,valid,1
+Hunan,in review,1
+Henan,in review,1
+Hebei,valid,1
+Jiangsu,valid,1
+Tianjin,valid,1
+Henan,valid,1
+Guangdong,in review,1
+Hunan,valid,1
+Guangdong,valid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Henan,in review,1
+Shandong,invalid,1
+Tianjin,invalid,1
+Neimenggu,invalid,1
+Tianjin,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Sichuan,invalid,1
+Shanghai,invalid,1
+Zhejiang,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Zhejiang,invalid,1
+Liaoning,invalid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Zhejiang,valid,1
+Henan,valid,1
+Hunan,valid,1
+Shandong,in review,1
+Jiangxi,in review,1
+Liaoning,invalid,1
+Beijing,invalid,1
+Beijing,valid,1
+Guangdong,in review,1
+Jiangsu,valid,1
+Liaoning,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Sichuan,invalid,1
+Shanxi,valid,1
+Jilin,valid,1
+Shanghai,in review,1
+Shandong,valid,1
+Liaoning,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Hunan,in review,1
+Hubei,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Henan,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Beijing,invalid,1
+Sichuan,invalid,1
+Tianjin,invalid,1
+Henan,invalid,1
+Zhejiang,in review,1
+Hunan,valid,1
+Jiangsu,valid,1
+Hunan,in review,1
+Liaoning,in review,1
+Xinjiang,valid,1
+Beijing,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Hubei,invalid,1
+Jilin,invalid,1
+Shanxi,invalid,1
+Guangdong,valid,1
+Jilin,valid,1
+Liaoning,valid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Henan,in review,1
+Guangxi,in review,1
+Jiangsu,invalid,1
+Shandong,in review,1
+Jilin,valid,1
+Chongqing,valid,1
+Hubei,valid,1
+Guangdong,valid,1
+Guizhou,invalid,1
+Guizhou,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Guangxi,in review,1
+Henan,valid,1
+Henan,valid,1
+Gansu,valid,1
+Zhejiang,in review,1
+Henan,valid,1
+Shandong,in review,1
+Shandong,in review,1
+Henan,in review,1
+Henan,in review,1
+Henan,valid,1
+Shandong,invalid,1
+Jiangxi,invalid,1
+Hebei,invalid,1
+Sichuan,invalid,1
+Zhejiang,invalid,1
+Zhejiang,invalid,1
+Zhejiang,invalid,1
+Anhui,in review,1
+Liaoning,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Hunan,in review,1
+Tianjin,in review,1
+Tianjin,valid,1
+Tianjin,valid,1
+Guangdong,in review,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanxi,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Shanxi,in review,1
+Guangdong,in review,1
+Anhui,valid,1
+Chongqing,valid,1
+Liaoning,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Shandong,valid,1
+Heilongjiang,invalid,1
+Beijing,invalid,1
+Shanxi,invalid,1
+Tianjin,invalid,1
+Zhejiang,invalid,1
+Shandong,valid,1
+Chongqing,valid,1
+Sichuan,valid,1
+Fujian,valid,1
+Beijing,valid,1
+Yunnan,valid,1
+Chongqing,valid,1
+Sichuan,invalid,1
+Beijing,invalid,1
+Liaoning,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Liaoning,in review,1
+Guangdong,in review,1
+Guangdong,valid,1
+Guangdong,valid,1
+Liaoning,valid,1
+Fujian,valid,1
+Yunnan,valid,1
+Liaoning,valid,1
+Jiangsu,valid,1
+Jiangsu,valid,1
+Shanxi,valid,1
+Sichuan,invalid,1
+Taiwan,invalid,1
+Beijing,invalid,1
+Shandong,in review,1
+Hunan,in review,1
+Zhejiang,valid,1
+Beijing,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Shandong,valid,1
+Jiangsu,in review,1
+Shandong,in review,1
+Liaoning,invalid,1
+Heilongjiang,invalid,1
+Jiangsu,in review,1
+Jiangsu,valid,1
+Sichuan,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Shandong,valid,1
+Henan,valid,1
+Sichuan,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Chongqing,valid,1
+Jiangsu,valid,1
+Shandong,valid,1
+Fujian,valid,1
+Tianjin,valid,1
+Beijing,valid,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Fujian,invalid,1
+Zhejiang,invalid,1
+Zhejiang,invalid,1
+Jiangsu,invalid,1
+Taiwan,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Liaoning,invalid,1
+Tianjin,in review,1
+Zhejiang,in review,1
+Fujian,valid,1
+Shanghai,valid,1
+Shanxi,valid,1
+Sichuan,valid,1
+Beijing,valid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Taiwan,invalid,1
+Shandong,valid,1
+Zhejiang,valid,1
+Hongkong,in review,1
+Anhui,in review,1
+Hunan,in review,1
+Hunan,valid,1
+Jiangsu,in review,1
+Shanghai,in review,1
+Guangdong,valid,1
+Yunnan,valid,1
+Hebei,valid,1
+Hebei,valid,1
+Chongqing,valid,1
+Beijing,invalid,1
+Shandong,invalid,1
+Guangdong,invalid,1
+Liaoning,invalid,1
+Shandong,invalid,1
+Shanxi,invalid,1
+Jiangsu,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Beijing,invalid,1
+Fujian,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Zhejiang,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Liaoning,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Jiangsu,valid,1
+Beijing,valid,1
+Beijing,valid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Zhejiang,in review,1
+Beijing,valid,1
+Fujian,valid,1
+Beijing,valid,1
+Hebei,valid,1
+Shanxi,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Beijing,invalid,1
+Heilongjiang,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Liaoning,invalid,1
+Shanghai,invalid,1
+Beijing,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Liaoning,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Yunnan,in review,1
+Shanghai,in review,1
+Guangdong,valid,1
+Henan,in review,1
+Shandong,in review,1
+Beijing,in review,1
+Heilongjiang,valid,1
+Beijing,valid,1
+Hunan,valid,1
+Shanxi,valid,1
+Shanghai,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Anhui,in review,1
+Beijing,in review,1
+Liaoning,in review,1
+Shanghai,in review,1
+Tianjin,in review,1
+Sichuan,in review,1
+Zhejiang,in review,1
+Liaoning,in review,1
+Tianjin,in review,1
+Liaoning,in review,1
+Fujian,in review,1
+Jiangsu,in review,1
+Beijing,valid,1
+Shanghai,in review,1
+Zhejiang,in review,1
+Hunan,in review,1
+Shanghai,in review,1
+Heilongjiang,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Liaoning,in review,1
+Liaoning,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Hunan,in review,1
+Guangdong,in review,1
+Shanxi,in review,1
+Shanghai,in review,1
+Jilin,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Chongqing,in review,1
+Hebei,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Hunan,in review,1
+Guangdong,in review,1
+Hubei,in review,1
+Shanghai,valid,1
+Shanghai,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Liaoning,in review,1
+Shanghai,in review,1
+Zhejiang,in review,1
+Beijing,valid,1
+Jilin,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Guangdong,valid,1
+Zhejiang,valid,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Shanxi,in review,1
+Shanxi,in review,1
+Shanxi,valid,1
+Shanxi,in review,1
+Liaoning,valid,1
+Jilin,in review,1
+Shanxi,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Shanxi,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Beijing,in review,1
+Shanghai,in review,1
+Shanxi,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Shanghai,in review,1
+Sichuan,in review,1
+Sichuan,in review,1
+Liaoning,in review,1
+Shanghai,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Liaoning,in review,1
+Shanghai,in review,1
+Beijing,valid,1
+Beijing,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Liaoning,in review,1
+Henan,in review,1
+Liaoning,in review,1
+Sichuan,in review,1
+Shanxi,in review,1
+Tianjin,in review,1
+Beijing,in review,1
+Sichuan,in review,1
+Shanghai,in review,1
+Jilin,in review,1
+Chongqing,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Zhejiang,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Jiangxi,in review,1
+Anhui,in review,1
+Shandong,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Hunan,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Jiangsu,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Chongqing,in review,1
+Chongqing,in review,1
+Chongqing,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Shanxi,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Shandong,in review,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Shanghai,in review,1
+Chongqing,in review,1
+Chongqing,in review,1
+Chongqing,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Sichuan,in review,1
+Shanghai,in review,1
+Hainan,in review,1
+Chongqing,in review,1
+Chongqing,in review,1
+Henan,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Hubei,in review,1
+Shanghai,in review,1
+Zhejiang,in review,1
+Hubei,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Liaoning,in review,1
+Sichuan,in review,1
+Jiangsu,in review,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Zhejiang,invalid,1
+Hongkong,invalid,1
+Chongqing,in review,1
+Shanghai,in review,1
+Yunnan,in review,1
+Hubei,in review,1
+Shanghai,in review,1
+Shanghai,valid,1
+Shanghai,valid,1
+Guangdong,in review,1
+Guangxi,in review,1
+Tianjin,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Yunnan,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Hubei,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Shanghai,valid,1
+Hubei,in review,1
+Hubei,in review,1
+Shanxi,in review,1
+Beijing,valid,1
+Shanghai,valid,1
+Jiangsu,in review,1
+Sichuan,in review,1
+Taiwan,in review,1
+Guangdong,valid,1
+Jiangsu,in review,1
+Beijing,in review,1
+Tianjin,in review,1
+Anhui,in review,1
+Yunnan,in review,1
+Yunnan,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Yunnan,in review,1
+Qinghai,in review,1
+Gansu,in review,1
+Zhejiang,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Heilongjiang,in review,1
+Beijing,valid,1
+Beijing,in review,1
+Sichuan,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Sichuan,in review,1
+Hubei,valid,1
+Beijing,in review,1
+Hubei,in review,1
+Jiangsu,valid,1
+Guizhou,in review,1
+Chongqing,in review,1
+Guangdong,in review,1
+Hunan,invalid,1
+Chongqing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Hubei,invalid,1
+Hunan,invalid,1
+Chongqing,invalid,1
+Jiangsu,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Beijing,valid,1
+Shanxi,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Yunnan,in review,1
+Jiangsu,valid,1
+Guangdong,in review,1
+Chongqing,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Jiangsu,in review,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Zhejiang,invalid,1
+Chongqing,invalid,1
+Hubei,valid,1
+Guangxi,in review,1
+Zhejiang,in review,1
+Fujian,valid,1
+Shanghai,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Heilongjiang,invalid,1
+Guangdong,invalid,1
+Guangdong,in review,1
+Jiangxi,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Hainan,valid,1
+Hubei,in review,1
+Anhui,valid,1
+Zhejiang,in review,1
+Liaoning,in review,1
+Guangxi,valid,1
+Hunan,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Hubei,in review,1
+Chongqing,in review,1
+Jiangsu,valid,1
+Shanghai,in review,1
+Anhui,in review,1
+Sichuan,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Sichuan,valid,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Zhejiang,valid,1
+Beijing,valid,1
+Shanghai,valid,1
+Guangdong,in review,1
+Zhejiang,valid,1
+Hebei,in review,1
+Chongqing,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Shanxi,in review,1
+Liaoning,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Shandong,invalid,1
+Guangdong,invalid,1
+Anhui,invalid,1
+Guangxi,invalid,1
+Zhejiang,invalid,1
+Shandong,invalid,1
+Heilongjiang,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Tianjin,invalid,1
+Shanghai,invalid,1
+Sichuan,invalid,1
+Heilongjiang,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Guangdong,invalid,1
+Shandong,invalid,1
+Shandong,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Zhejiang,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Hunan,invalid,1
+Guangdong,invalid,1
+Guangdong,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Fujian,invalid,1
+Beijing,invalid,1
+Guizhou,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Henan,invalid,1
+Beijing,invalid,1
+Chongqing,in review,1
+Beijing,in review,1
+Shanxi,in review,1
+Guangdong,in review,1
+Henan,in review,1
+Fujian,in review,1
+Hubei,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Sichuan,in review,1
+Anhui,in review,1
+Beijing,in review,1
+Anhui,invalid,1
+Jiangsu,invalid,1
+Chongqing,invalid,1
+Guangdong,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Guangdong,invalid,1
+Jiangsu,invalid,1
+Jiangsu,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Guangdong,invalid,1
+Shanghai,invalid,1
+Zhejiang,invalid,1
+Beijing,invalid,1
+Beijing,in review,1
+Heilongjiang,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Anhui,in review,1
+Hebei,valid,1
+Liaoning,in review,1
+Guangdong,in review,1
+Sichuan,in review,1
+Guizhou,in review,1
+Chongqing,in review,1
+Zhejiang,in review,1
+Fujian,in review,1
+Guangdong,in review,1
+Shandong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Guangxi,in review,1
+Anhui,in review,1
+Hubei,in review,1
+Guangdong,in review,1
+Zhejiang,valid,1
+Guangdong,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Zhejiang,in review,1
+Sichuan,in review,1
+Hunan,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Jiangsu,valid,1
+Hunan,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Hebei,valid,1
+Shanghai,in review,1
+Sichuan,in review,1
+Jiangsu,in review,1
+Henan,in review,1
+Shandong,valid,1
+Beijing,in review,1
+Shandong,valid,1
+Anhui,valid,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Shanghai,in review,1
+Liaoning,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Yunnan,valid,1
+Beijing,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Tianjin,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Hebei,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Beijing,invalid,1
+Zhejiang,in review,1
+Jilin,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Ningxia,in review,1
+Guangdong,in review,1
+Jiangxi,in review,1
+Zhejiang,in review,1
+Jiangsu,in review,1
+Shandong,in review,1
+Shandong,in review,1
+Anhui,in review,1
+Zhejiang,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Zhejiang,in review,1
+Fujian,in review,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Zhejiang,in review,1
+Shanghai,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Sichuan,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Fujian,in review,1
+Anhui,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Shanghai,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Shanxi,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Guangdong,in review,1
+Sichuan,in review,1
+Beijing,in review,1
+Jiangsu,in review,1
+Chongqing,in review,1
+Beijing,in review,1
+Zhejiang,in review,1
+Zhejiang,in review,1
+Jiangsu,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Hubei,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Hubei,in review,1
+Guangxi,in review,1
+Liaoning,in review,1
+Yunnan,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Beijing,in review,1
+Zhejiang,in review,1
+Shandong,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Yunnan,in review,1
+Shanghai,in review,1
+Guangdong,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Hubei,valid,1
+Shanghai,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Anhui,in review,1
+Henan,in review,1
+Hebei,in review,1
+Shandong,in review,1
+Guangdong,in review,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shandong,invalid,1
+Zhejiang,invalid,1
+Henan,invalid,1
+Beijing,invalid,1
+Shandong,invalid,1
+Hongkong,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Anhui,invalid,1
+Chongqing,invalid,1
+Jiangsu,valid,1
+Yunnan,in review,1
+Hunan,in review,1
+Jiangsu,in review,1
+Gansu,in review,1
+Zhejiang,in review,1
+Beijing,in review,1
+Shandong,in review,1
+Guangdong,in review,1
+Beijing,in review,1
+Yunnan,in review,1
+Sichuan,valid,1
+Beijing,in review,1
+Zhejiang,in review,1
+Hunan,valid,1
+Qinghai,in review,1
+Guangdong,in review,1
+Qinghai,in review,1
+Guizhou,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Hebei,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Yunnan,in review,1
+Henan,in review,1
+Shandong,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Henan,in review,1
+Yunnan,in review,1
+Shanxi,in review,1
+Shanxi,in review,1
+Guangdong,in review,1
+Shanxi,in review,1
+Shanxi,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Sichuan,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Jiangsu,valid,1
+Shandong,valid,1
+Guangdong,valid,1
+Guangdong,in review,1
+Beijing,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Guangdong,valid,1
+Shanghai,valid,1
+Beijing,valid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Henan,invalid,1
+Guangdong,invalid,1
+Ningxia,invalid,1
+Jiangsu,invalid,1
+Gansu,invalid,1
+Heilongjiang,invalid,1
+Liaoning,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Jiangsu,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Zhejiang,invalid,1
+Beijing,valid,1
+Beijing,valid,1
+Guizhou,in review,1
+Shandong,in review,1
+Guangdong,in review,1
+Hubei,valid,1
+Guangdong,valid,1
+Hubei,in review,1
+Beijing,in review,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Yunnan,in review,1
+Yunnan,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,in review,1
+Tianjin,in review,1
+Shanxi,in review,1
+Jiangsu,in review,1
+Shanxi,in review,1
+Shanxi,in review,1
+Yunnan,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Beijing,valid,1
+Beijing,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Beijing,valid,1
+Sichuan,valid,1
+Beijing,valid,1
+Guangdong,valid,1
+Beijing,valid,1
+Shanghai,valid,1
+Jilin,valid,1
+Beijing,valid,1
+Shanghai,invalid,1
+Shanxi,invalid,1
+Henan,invalid,1
+Henan,invalid,1
+Tianjin,invalid,1
+Shandong,invalid,1
+Jilin,invalid,1
+Sichuan,invalid,1
+Beijing,invalid,1
+Sichuan,invalid,1
+Shandong,invalid,1
+Sichuan,invalid,1
+Guangdong,valid,1
+Shanghai,in review,1
+Jiangsu,valid,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Guangdong,in review,1
+Guangdong,in review,1
+Jiangsu,in review,1
+Shanghai,valid,1
+Zhejiang,in review,1
+Hubei,in review,1
+Jiangsu,in review,1
+Beijing,in review,1
+Hubei,valid,1
+Guangxi,in review,1
+Hunan,in review,1
+Beijing,in review,1
+Shanghai,in review,1
+Sichuan,in review,1
+Gansu,in review,1
+Jiangsu,valid,1
+Shandong,valid,1
+Shanghai,in review,1
+Beijing,valid,1
+Guangdong,in review,1
+Shanghai,in review,1
+Hubei,valid,1
+Shanghai,valid,1
+Shanghai,in review,1
+Beijing,valid,1
+Shandong,in review,1
+Zhejiang,valid,1
+Jiangsu,valid,1
+Guangdong,in review,1
+Shandong,in review,1
+Beijing,valid,1
+Fujian,valid,1
+Heilongjiang,valid,1
+Hebei,valid,1
+Beijing,valid,1
+Heilongjiang,valid,1
+Shanghai,valid,1
+Shanghai,valid,1
+Tianjin,valid,1
+Jiangsu,in review,1
+Shandong,in review,1
+Guangdong,valid,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Jiangsu,in review,1
+Sichuan,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Shandong,invalid,1
+Sichuan,invalid,1
+Sichuan,invalid,1
+Zhejiang,invalid,1
+Beijing,invalid,1
+Beijing,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Hubei,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
+Chongqing,invalid,1
+Jiangsu,invalid,1
+Shanghai,invalid,1
+Shanghai,invalid,1
